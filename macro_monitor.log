@@ -1,0 +1,453 @@
+2024-11-20 14:27:25,838 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:27:25,850 - Erreur lors de l'ouverture du fichier: (-2146777998, 'OLE error 0x800ac472', None, None)
+2024-11-20 14:28:21,285 - Vérification des droits d'accès VBA
+2024-11-20 14:28:21,286 - Impossible de configurer l'accès VBA: name 'winreg' is not defined
+2024-11-20 14:29:33,587 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:29:33,604 - Erreur lors de l'ouverture du fichier: (-2146777998, 'OLE error 0x800ac472', None, None)
+2024-11-20 14:36:38,140 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:36:41,145 - Fichier Excel ouvert avec succès
+2024-11-20 14:36:41,164 - Accès VBA Project autorisé
+2024-11-20 14:36:41,168 - Accès VBA Project réussi
+2024-11-20 14:36:41,448 - Erreur VBA: (-2147352567, 'Une exception s’est produite.', (0, '', 'Argument ou appel de procédure incorrect', 'C:\\Program Files\\Common Files\\Microsoft Shared\\VBA\\VBA7.1\\2057\\VbLR6.chm', 1000005, -2147024809), None)
+2024-11-20 14:36:41,448 - Vérifiez que l'accès au VBA est activé dans Excel:
+2024-11-20 14:36:41,449 - 1. Excel -> Options -> Centre de gestion de la confidentialité
+2024-11-20 14:36:41,449 - 2. Paramètres du Centre de gestion de la confidentialité
+2024-11-20 14:36:41,449 - 3. Activer 'Accès programmatique au projet VBA'
+2024-11-20 14:36:41,450 - Erreur accès VBA: (-2147352567, 'Une exception s’est produite.', (0, '', 'Argument ou appel de procédure incorrect', 'C:\\Program Files\\Common Files\\Microsoft Shared\\VBA\\VBA7.1\\2057\\VbLR6.chm', 1000005, -2147024809), None)
+2024-11-20 14:36:41,450 - Vérifiez dans Excel: Options > Centre de gestion de la confidentialité > Paramètres... > Accès programmatique au projet VBA
+2024-11-20 14:36:41,450 - Erreur lors de l'ouverture du fichier: (-2147352567, 'Une exception s’est produite.', (0, '', 'Argument ou appel de procédure incorrect', 'C:\\Program Files\\Common Files\\Microsoft Shared\\VBA\\VBA7.1\\2057\\VbLR6.chm', 1000005, -2147024809), None)
+2024-11-20 14:37:28,888 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:37:31,599 - Fichier Excel ouvert avec succès
+2024-11-20 14:37:31,859 - Accès VBA Project autorisé
+2024-11-20 14:37:31,861 - Accès VBA Project réussi
+2024-11-20 14:41:43,138 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:41:44,986 - Fichier Excel ouvert avec succès
+2024-11-20 14:41:45,337 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:41:45,373 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:41:45,446 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:41:45,633 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:41:45,691 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:41:45,724 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 14:43:56,426 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:43:58,658 - Fichier Excel ouvert avec succès
+2024-11-20 14:43:59,461 - Erreur pendant la surveillance: <unknown>.IsDirty
+2024-11-20 14:44:47,250 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:44:49,568 - Fichier Excel ouvert avec succès
+2024-11-20 14:44:50,425 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:44:50,523 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:44:51,032 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:44:51,058 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:44:51,061 - Modification détectée pour ThisWorkbook
+2024-11-20 14:44:51,077 - Modification détectée pour Sheet1
+2024-11-20 14:44:51,091 - Modification détectée pour Module1
+2024-11-20 14:44:51,165 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:44:51,167 - Modification détectée pour Module2
+2024-11-20 14:44:51,277 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 14:46:51,299 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:46:51,311 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:46:51,334 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:46:51,357 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:46:51,360 - Modification détectée pour Module1
+2024-11-20 14:46:51,408 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:49:09,339 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:49:10,421 - Fichier Excel ouvert avec succès
+2024-11-20 14:49:11,090 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:49:11,146 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:49:11,217 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:49:11,277 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:49:11,283 - Modification détectée pour ThisWorkbook
+2024-11-20 14:49:11,316 - Modification détectée pour Sheet1
+2024-11-20 14:49:11,346 - Modification détectée pour Module1
+2024-11-20 14:49:11,412 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:49:11,413 - Modification détectée pour Module2
+2024-11-20 14:49:11,502 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 14:51:11,531 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:51:11,546 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:51:11,566 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:51:11,568 - Macro supprimée: Module1
+2024-11-20 14:52:56,562 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:52:58,134 - Fichier Excel ouvert avec succès
+2024-11-20 14:52:58,340 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:52:58,373 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:52:58,409 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:52:58,412 - Modification détectée pour ThisWorkbook
+2024-11-20 14:52:58,425 - Modification détectée pour Sheet1
+2024-11-20 14:52:58,439 - Modification détectée pour Module2
+2024-11-20 14:52:58,624 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 14:53:08,633 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:53:08,637 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:53:08,646 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:53:18,661 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:53:18,668 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:53:18,677 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:53:18,687 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:53:18,688 - Modification détectée pour Module1
+2024-11-20 14:53:18,703 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:53:28,720 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:53:28,728 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:53:28,738 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:53:28,747 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:53:38,762 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:53:38,768 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:53:38,780 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:53:38,790 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:53:38,791 - Modification détectée pour Module1
+2024-11-20 14:53:38,821 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:53:48,823 - Excel fermé par l'utilisateur - Synchronisation finale...
+2024-11-20 14:53:48,824 - Erreur VBA: (-2147417848, 'L’objet invoqué s’est déconnecté de ses clients.', None, None)
+2024-11-20 14:53:48,825 - Erreur lors de la sauvegarde finale: (-2147417848, 'L’objet invoqué s’est déconnecté de ses clients.', None, None)
+2024-11-20 14:53:48,825 - Tentative de sauvegarde finale avant fermeture...
+2024-11-20 14:53:48,826 - Erreur VBA: (-2147417848, 'L’objet invoqué s’est déconnecté de ses clients.', None, None)
+2024-11-20 14:53:48,826 - Erreur lors de la sauvegarde finale: (-2147417848, 'L’objet invoqué s’est déconnecté de ses clients.', None, None)
+2024-11-20 14:53:48,827 - Erreur lors de la fermeture d'Excel
+2024-11-20 14:56:02,727 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:56:03,522 - Fichier Excel ouvert avec succès
+2024-11-20 14:56:03,780 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:56:03,797 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:56:03,832 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:56:03,859 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:56:03,862 - Modification détectée pour ThisWorkbook
+2024-11-20 14:56:03,877 - Modification détectée pour Sheet1
+2024-11-20 14:56:03,892 - Modification détectée pour Module2
+2024-11-20 14:56:03,943 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 14:56:03,945 - Modification détectée pour Module1
+2024-11-20 14:56:03,992 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:56:14,008 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:56:14,013 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:56:14,022 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:56:14,035 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:56:24,046 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:56:24,054 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:56:24,067 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:56:24,078 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:56:24,088 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:56:24,090 - Modification détectée pour Module1
+2024-11-20 14:56:24,120 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:56:24,121 - Modification détectée pour Classe1
+2024-11-20 14:56:24,142 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 14:56:34,153 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:56:34,159 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:56:34,167 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:56:34,178 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:56:34,188 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:56:34,197 - Composant trouvé: UserForm1 (Type: 3)
+2024-11-20 14:56:34,198 - Modification détectée pour UserForm1
+2024-11-20 14:56:34,234 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frm
+2024-11-20 14:56:44,245 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:56:44,248 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:56:44,253 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:56:44,265 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:56:44,276 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:56:44,284 - Composant trouvé: UserForm1 (Type: 3)
+2024-11-20 14:56:44,285 - Modification détectée pour UserForm1
+2024-11-20 14:56:44,330 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frm
+2024-11-20 14:56:54,333 - Excel fermé par l'utilisateur - Sauvegarde depuis le cache...
+2024-11-20 14:56:54,335 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\ThisWorkbook.txt
+2024-11-20 14:56:54,338 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Sheet1.txt
+2024-11-20 14:56:54,344 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 14:56:54,350 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:56:54,356 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 14:56:54,685 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frm
+2024-11-20 14:58:30,472 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 14:58:31,192 - Fichier Excel ouvert avec succès
+2024-11-20 14:58:31,722 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:58:31,748 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:58:31,790 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:58:31,830 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:58:31,942 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:58:31,987 - Composant trouvé: UserForm1 (Type: 3)
+2024-11-20 14:58:31,990 - Modification détectée pour ThisWorkbook
+2024-11-20 14:58:32,000 - Modification détectée pour Sheet1
+2024-11-20 14:58:32,016 - Modification détectée pour Module2
+2024-11-20 14:58:32,060 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 14:58:32,061 - Modification détectée pour Module1
+2024-11-20 14:58:32,098 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:58:32,099 - Modification détectée pour Classe1
+2024-11-20 14:58:32,153 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 14:58:32,154 - Modification détectée pour UserForm1
+2024-11-20 14:58:32,200 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frm
+2024-11-20 14:58:42,214 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:58:42,223 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:58:42,238 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:58:42,251 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:58:42,278 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:58:42,280 - Macro supprimée: UserForm1
+2024-11-20 14:58:52,290 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:58:52,295 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:58:52,305 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:58:52,312 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:58:52,321 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:58:52,322 - Modification détectée pour Classe1
+2024-11-20 14:58:52,349 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 14:59:02,357 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:59:02,362 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:59:02,373 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:59:02,383 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:59:02,393 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:59:12,408 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:59:12,413 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:59:12,421 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:59:12,429 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:59:12,438 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:59:22,451 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:59:22,457 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:59:22,468 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:59:22,477 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:59:22,487 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:59:22,488 - Modification détectée pour Module1
+2024-11-20 14:59:22,516 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:59:32,551 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:59:32,568 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:59:32,586 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:59:32,603 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:59:32,625 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:59:42,638 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:59:42,645 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:59:42,657 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:59:42,666 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:59:42,682 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 14:59:42,684 - Modification détectée pour Module1
+2024-11-20 14:59:42,716 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 14:59:52,728 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 14:59:52,733 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 14:59:52,744 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 14:59:52,751 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 14:59:52,757 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:00:02,776 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:00:02,782 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:00:02,793 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:00:02,805 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:00:02,815 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:00:12,825 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:00:12,832 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:00:12,840 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:00:12,851 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:00:12,863 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:00:12,864 - Modification détectée pour Module1
+2024-11-20 15:00:12,895 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 15:00:22,910 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:00:22,977 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:00:23,001 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:00:23,020 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:00:23,033 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:00:33,050 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:00:33,058 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:00:33,069 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:00:33,080 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:00:33,091 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:00:43,108 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:00:43,119 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:00:43,137 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:00:43,148 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:00:43,164 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:02:39,811 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 15:02:40,613 - Fichier Excel ouvert avec succès
+2024-11-20 15:02:40,892 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:02:40,908 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:02:40,936 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:02:40,958 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:02:40,980 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:02:40,984 - Modification détectée pour ThisWorkbook
+2024-11-20 15:02:41,051 - Modification détectée pour Sheet1
+2024-11-20 15:02:41,152 - Modification détectée pour Module2
+2024-11-20 15:02:41,234 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 15:02:41,234 - Modification détectée pour Module1
+2024-11-20 15:02:41,290 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 15:02:41,291 - Modification détectée pour Classe1
+2024-11-20 15:02:41,356 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:02:51,387 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:02:51,396 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:02:51,412 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:02:51,424 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:02:51,442 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:03:01,445 - Excel fermé par l'utilisateur - Sauvegarde depuis le cache...
+2024-11-20 15:03:01,449 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\ThisWorkbook.txt
+2024-11-20 15:03:01,453 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Sheet1.txt
+2024-11-20 15:03:01,459 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 15:03:01,465 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 15:03:01,471 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:03:50,242 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 15:03:51,985 - Fichier Excel ouvert avec succès
+2024-11-20 15:03:52,279 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:03:52,300 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:03:52,335 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:03:52,481 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:03:52,516 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:03:52,518 - Modification détectée pour ThisWorkbook
+2024-11-20 15:03:52,545 - Modification détectée pour Sheet1
+2024-11-20 15:03:52,562 - Modification détectée pour Module2
+2024-11-20 15:03:52,606 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 15:03:52,607 - Modification détectée pour Module1
+2024-11-20 15:03:52,642 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 15:03:52,643 - Modification détectée pour Classe1
+2024-11-20 15:03:52,683 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:03:52,684 - Modification détectée pour ThisWorkbook
+2024-11-20 15:03:52,692 - Modification détectée pour Sheet1
+2024-11-20 15:03:52,699 - Modification détectée pour Module2
+2024-11-20 15:03:52,739 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 15:03:52,740 - Modification détectée pour Module1
+2024-11-20 15:03:52,777 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 15:03:52,777 - Modification détectée pour Classe1
+2024-11-20 15:03:52,814 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:03:52,833 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:03:52,844 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:03:52,858 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:03:52,870 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:03:52,884 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:04:02,894 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:04:02,900 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:04:02,910 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:04:02,922 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:04:02,932 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:04:12,942 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:04:12,949 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:04:12,959 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:04:12,970 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:04:12,978 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:04:22,992 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:04:22,998 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:04:23,008 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:04:23,019 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:04:23,027 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:04:23,029 - Modification détectée pour Classe1
+2024-11-20 15:04:23,059 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:04:23,059 - Modification détectée pour Classe1
+2024-11-20 15:04:23,107 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:04:33,115 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:04:33,158 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:04:33,168 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:04:33,240 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:04:33,306 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:04:43,323 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:04:43,331 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:04:43,344 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:04:43,358 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:04:43,374 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:04:53,394 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:04:53,403 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:04:53,421 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:04:53,435 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:04:53,446 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:05:03,473 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:05:03,480 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:05:03,500 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:05:03,522 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:05:03,538 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:05:13,553 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:05:13,559 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:05:13,572 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:05:13,578 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:05:13,590 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:05:23,604 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:05:23,609 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:05:23,629 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:05:23,637 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:05:23,645 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:05:33,662 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:05:33,669 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:05:33,679 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:05:33,688 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:05:33,695 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:05:43,707 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:05:43,712 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:05:43,719 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:05:43,732 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:05:43,740 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:05:53,755 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:05:53,763 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:05:53,777 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:05:53,787 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:05:53,796 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:06:03,814 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:06:03,823 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:06:03,839 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:06:03,852 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:06:03,864 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:06:13,881 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:06:13,890 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:06:13,907 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:06:13,922 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:06:13,937 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:06:23,954 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:06:23,961 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:06:23,974 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:06:23,986 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:06:23,999 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:06:34,016 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:06:34,023 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:06:34,035 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:06:34,046 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:06:34,056 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:06:44,069 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:06:44,073 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:06:44,092 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:06:44,104 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:06:44,119 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:06:54,131 - Composant trouvé: ThisWorkbook (Type: 100)
+2024-11-20 15:06:54,138 - Composant trouvé: Sheet1 (Type: 100)
+2024-11-20 15:06:54,151 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:06:54,161 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:06:54,185 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:07:04,190 - Excel fermé par l'utilisateur - Sauvegarde depuis le cache...
+2024-11-20 15:07:04,193 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\ThisWorkbook.txt
+2024-11-20 15:07:04,196 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Sheet1.txt
+2024-11-20 15:07:04,203 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 15:07:04,209 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 15:07:04,214 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:07:50,575 - Ancien fichier supprimé: UserForm1.frx
+2024-11-20 15:07:51,548 - Surveillance du fichier: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\ExcelLiveInjectionWithMacrosAndPQ.xlsm
+2024-11-20 15:07:52,962 - Fichier Excel ouvert avec succès
+2024-11-20 15:07:53,335 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:07:53,344 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:07:53,356 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:07:53,358 - Modification détectée pour Module2
+2024-11-20 15:07:53,388 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 15:07:53,388 - Modification détectée pour Module1
+2024-11-20 15:07:53,421 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 15:07:53,421 - Modification détectée pour Classe1
+2024-11-20 15:07:53,456 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:07:53,456 - Modification détectée pour Module2
+2024-11-20 15:07:53,496 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 15:07:53,497 - Modification détectée pour Module1
+2024-11-20 15:07:53,532 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
+2024-11-20 15:07:53,533 - Modification détectée pour Classe1
+2024-11-20 15:07:53,567 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:07:53,596 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:07:53,609 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:07:53,624 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:08:03,665 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:08:03,688 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:08:03,742 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:08:13,761 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:08:13,770 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:08:13,782 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:08:13,789 - Composant trouvé: UserForm1 (Type: 3)
+2024-11-20 15:08:13,791 - Modification détectée pour UserForm1
+2024-11-20 15:08:13,832 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frm
+2024-11-20 15:08:13,833 - Modification détectée pour UserForm1
+2024-11-20 15:08:13,869 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frm
+2024-11-20 15:08:23,889 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:08:23,897 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:08:23,908 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:08:23,916 - Composant trouvé: UserForm1 (Type: 3)
+2024-11-20 15:08:23,918 - Modification détectée pour UserForm1
+2024-11-20 15:08:23,960 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frm
+2024-11-20 15:08:23,961 - Modification détectée pour UserForm1
+2024-11-20 15:08:24,001 - Composant exporté: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frm
+2024-11-20 15:08:34,021 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:08:34,029 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:08:34,050 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:08:34,057 - Composant trouvé: UserForm1 (Type: 3)
+2024-11-20 15:08:44,081 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:08:44,092 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:08:44,105 - Composant trouvé: Classe1 (Type: 2)
+2024-11-20 15:08:44,107 - Macro supprimée: UserForm1
+2024-11-20 15:08:44,110 - Fichier supprimé: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frm
+2024-11-20 15:08:44,113 - Fichier .frx supprimé: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\UserForm1.frx
+2024-11-20 15:08:54,351 - Composant trouvé: Module2 (Type: 1)
+2024-11-20 15:08:54,367 - Composant trouvé: Module1 (Type: 1)
+2024-11-20 15:08:54,369 - Macro supprimée: Classe1
+2024-11-20 15:08:54,371 - Fichier supprimé: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Classe1.cls
+2024-11-20 15:09:04,374 - Excel fermé par l'utilisateur - Sauvegarde depuis le cache...
+2024-11-20 15:09:04,382 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module2.bas
+2024-11-20 15:09:04,387 - Composant sauvegardé depuis le cache: C:\Users\JulienFernandez\OneDrive\Portable Softwares\_Scripts\Python\Excel related\2024.11 Excel - surveillance (pas à pas)\macros_export\Module1.bas
